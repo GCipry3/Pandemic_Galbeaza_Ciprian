@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (SDL_GameTemplate.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  SDL_GameTemplate.vcxproj -> C:\Users\galbe\Desktop\SDL_GameTemplate\POO_Game_Galbeaza_Ciprian\x64\Debug\Covid-19_Game.exe
