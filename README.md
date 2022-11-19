@@ -1,6 +1,7 @@
 # Pandemic_Galbeaza_Ciprian
 
 The game is based on the current situation in the world, the pandemic.
+
 It is about a mad doctor who tries to save the humanity by vacctination of the 'Coviduti'.
 
 ## App presentation
